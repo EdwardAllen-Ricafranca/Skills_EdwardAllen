@@ -22,12 +22,11 @@ body {
 }
 
 .section {
-    font-size: 20px;
+    font-size: 19px;
     text-align: center;
     margin-top: 23px;
     color: #0f141c;
     border: 2px solid rgba(255, 255, 255, 0.5);  
-    border-width: 11px;
     background-color: #c2d6f6;
 
 }
